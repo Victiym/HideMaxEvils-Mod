@@ -5,3 +5,4 @@ Hides Max Evils when any of the following roles are in-play:
 - Puppeteer
 - Mayor
 - Good Twin
+- Executioner
